@@ -26,6 +26,8 @@ ONEST aims to:
 | v1.0.0  | TBD          | core - 0.9.4  | ONEST - 0.8.2 | Initial ONEST specification              | Deprecated |
 | v2.0.0  | TBD          | core - 0.9.4  | ONEST - 0.8.2 | ONEST specification for work-opportunity | Draft Live |
 
+Special thanks to the ONDC team that helped in the 2.0 specifications
+
 ---
 
 ## ONEST Specification
