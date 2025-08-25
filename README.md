@@ -1,19 +1,16 @@
-# Open Network for Digital Commerce (ONDC) - ONEST Specification
+# ONEST Specification - V2
 
 ## Overview
 
-**ONDC ONEST** (Open Network for Employment and Skilling Transformations) is a groundbreaking initiative under the Open Network for Digital Commerce (ONDC) framework. It aims to create an inclusive, interoperable digital ecosystem for **education, skilling, financial aid, and mentorship**. Built on the principles of decentralization, ONEST enables seamless transactions and interactions among providers, seekers, platforms, and other stakeholders, promoting a learner-centric ecosystem.
+**ONEST** (Open Network for Employment and Skilling Transformations) is a groundbreaking initiative. It aims to create an inclusive, interoperable digital ecosystem for **education, skilling, financial aid, and mentorship**. Built on the principles of decentralization, ONEST enables seamless transactions and interactions among providers, seekers, platforms, and other stakeholders, promoting a learner-centric ecosystem.
 
 ONEST facilitates the discovery of work opportunities and skilling resources across diverse industries and roles, enhancing access and engagement for local commerce in sectors like mobility, retail, education, and beyond.
-
-[ONDC ONEST Specifications](https://ondc-official.github.io/ONDC-ONEST-Specifications)
-[ONEST MOCK SERVER ANALYTICS](https://onest-mock-service.ondc.org/analytics)
 
 ---
 
 ## Objectives
 
-ONDC ONEST aims to:
+ONEST aims to:
 
 - **Enable Local Commerce**: Bring together a diverse set of work opportunities, learning & skilling experiences, mentorship, and financial support, enabling engagement on an open network.
 - **Foster Collaboration & New Models**: Encourage collaboration, sharing, and development of new models to benefit all stakeholders.
@@ -91,11 +88,11 @@ Contributions to the network can help enhance the ONEST infrastructure, protocol
 - Contributing code, frameworks, or APIs to support ONEST use cases.
 - Reporting and resolving bugs or vulnerabilities.
 
-All contributions must follow the ONDC ONEST [contribution guidelines](https://github.com/beckn).
+All contributions must follow the ONEST [contribution guidelines](https://github.com/beckn).
 
 ### Review and Approval Process
 
-Each contribution is reviewed by the ONDC ONEST committee. Upon approval, contributions will be merged into applicable versions of the specifications or network infrastructure.
+Each contribution is reviewed by the ONEST committee. Upon approval, contributions will be merged into applicable versions of the specifications or network infrastructure.
 
 ---
 
@@ -107,7 +104,6 @@ By contributing to ONEST, you become part of a movement to shape the future of e
 
 ## Links & Resources
 
-- [ONDC Official Website](https://www.ondc.org)
 - [Beckn GitHub Repository](https://github.com/beckn)
 - [Contribution Guidelines](https://github.com/beckn)
 
